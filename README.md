@@ -1,2 +1,2 @@
-# yanglei0707.github.io
+# lei.github.io
 个人博客的搭建
